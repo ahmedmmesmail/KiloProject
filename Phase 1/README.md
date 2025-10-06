@@ -20,14 +20,33 @@ Each project emphasizes **clean code**, **practical problem-solving**, and **use
 
 ## 🧠 Projects
 
-### 1️⃣ Tab5ha Hegoumi — *Restaurant Management System*
-📁 [Open Folder →](https://github.com/ahmedmmesmail/KiloProject/tree/main/Tab5ha%20Hegoumi)
+### 🍽️ **1️⃣ Tab5ha Hegoumi — Restaurant Management System**  
+> A complete restaurant management app connecting admin, cashier, and customers in one system.  
+> Supports live order tracking, menu control, and multi-role authentication for smooth daily operations.  
+📁 **[View Project →](https://github.com/ahmedmmesmail/KiloProject/tree/main/Phase%201/Tab5ah%20Hegoumi)**  
 
-### 2️⃣ Abda2 Mneen — *Library Management System*
+---
 
-### 3️⃣ NoteRex — *Notes App*
+### 📚 **2️⃣ Abda2 Mneen — Library Management System**  
+> A desktop app for managing books, authors, and publishers with fast search and full CRUD functionality.  
+> Built using Java Swing and SQL for an efficient, reliable, and user-friendly library experience.  
+📁 **[View Project →](https://github.com/ahmedmmesmail/KiloProject/tree/main/Phase%201/Abda2%20Mneen)**  
 
-### 4️⃣ Al-Dunya Ayh (NewsWide) — *News & Weather App*
+---
+
+### 📝 **3️⃣ NoteRex — Notes App**  
+> A secure cloud-based notes app with real-time sync and adaptive dark/light themes.  
+> Powered by Firebase Authentication and Firestore for reliability and instant updates.  
+📁 **[View Project →](https://github.com/ahmedmmesmail/KiloProject/tree/main/Phase%201/NoteRex)**  
+
+---
+
+### 🌍 **4️⃣ Al-Dunya Ayh (NewsWide) — News & Weather App**  
+> A modern Android app delivering live news and weather updates in one elegant interface.  
+> Built with Kotlin (MVVM), Retrofit, and RecyclerView for a dynamic, scalable experience.  
+📁 **[View Project →](https://github.com/ahmedmmesmail/KiloProject/tree/main/Phase%201/Al-Dunya%20Ayh)**  
+
+---
 
 
 ## 🧰 Tools & Technologies
