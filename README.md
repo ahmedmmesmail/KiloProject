@@ -10,5 +10,5 @@ This phase showcases my ability to **design, build, and connect every layer of a
 
 ---
 
-> ### 🚀 Phase 2 is on the way!  
+> ### ⏳ Phase 2 is on the way!  
 > Expanding into **web development**, **advanced Android concepts**, and **UI/UX refinement** — taking this journey even further.
