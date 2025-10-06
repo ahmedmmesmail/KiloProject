@@ -1,0 +1,64 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NoteRex" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">@color/minty</item>
+        <item name="colorOnPrimary">@color/jet</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="materialButtonStyle">@style/Widget.MyApp.Button</item>
+
+
+        <item name="colorSecondary">@color/minty</item>
+        <item name="colorOnSecondary">@color/jet</item>
+
+        <item name="colorTertiary">@color/jet</item>
+        <item name="colorOnTertiary">@color/jet</item>
+
+        <item name="colorSurface">@color/ghostWhite</item>
+        <item name="colorOnSurface">@color/ghostWhite</item>
+        <item name="colorOnSurfaceVariant">@color/ghostWhite</item>
+
+        <item name="colorPrimaryContainer">@color/minty</item>
+        <item name="colorOnPrimaryContainer">@color/jet</item>
+
+        <!-- النصوص -->
+        <item name="android:textColor">@color/ghostWhite</item>
+        <item name="android:textColorPrimary">@color/ghostWhite</item>
+        <item name="android:textColorSecondary">@color/ghostWhite</item>
+        <item name="radioButtonStyle">@style/MyRadioButtonStyle</item>
+
+
+        <!-- غصب عن Material3: override text appearances -->
+        <item name="textAppearanceBodyLarge">@style/MyTextAppearance</item>
+        <item name="textAppearanceBodyMedium">@style/MyTextAppearance</item>
+        <item name="textAppearanceBodySmall">@style/MyTextAppearance</item>
+
+        <item name="textAppearanceLabelLarge">@style/MyTextAppearance</item>
+        <item name="textAppearanceLabelMedium">@style/MyTextAppearance</item>
+        <item name="textAppearanceLabelSmall">@style/MyTextAppearance</item>
+        <item name="switchStyle">@style/MySwitchStyle</item>
+
+
+    </style>
+
+    <style name="MyTextAppearance" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textColor">@color/ghostWhite</item>
+    </style>
+
+    <style name="MyRadioButtonStyle" parent="Widget.Material3.CompoundButton.RadioButton">
+        <item name="android:textColor">@color/ghostWhite</item>
+    </style>
+
+    <style name="MySwitchStyle" parent="Widget.Material3.CompoundButton.Switch">
+        <item name="android:textColor">@color/ghostWhite</item>
+    </style>
+
+    <style name="Widget.MyApp.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">16dp</item>
+    </style>
+
+
+    <style name="Theme.NoteRex" parent="Base.Theme.NoteRex" />
+</resources>

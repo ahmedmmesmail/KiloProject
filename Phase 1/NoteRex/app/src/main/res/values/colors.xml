@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="minty">#00B860</color>
+    <color name="ghostWhite">#FCFCFC</color>
+    <color name="colorBackground">#FCFCFC</color>
+    <color name="jet">#1A1A1A</color>
+    <color name="icon1">#88dda1</color>
+    <color name="icon2">#63c986</color>
+
+
+</resources>

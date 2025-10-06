@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Abda2 Mneen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Abda2_Mneen_jar</output-path>
+    <root id="archive" name="Abda2 Mneen.jar">
+      <element id="module-output" name="Abda2 Mneen" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../LIBs/mssql-jdbc-12.10.0.jre11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
