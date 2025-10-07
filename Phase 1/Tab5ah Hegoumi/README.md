@@ -1,4 +1,4 @@
-### 1️⃣ Tab5ha Hegoumi — *Restaurant Management System*
+### 1️⃣ Tab5ah Hegoumi — *Restaurant Management System*
 ---
 **Overview:**  
 A complete restaurant management system designed to streamline operations between admin, cashier, and customers. It allows efficient menu management, live order tracking, and smooth billing in one connected ecosystem.
