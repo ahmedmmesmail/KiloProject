@@ -20,7 +20,7 @@ Each project emphasizes **clean code**, **practical problem-solving**, and **use
 
 ## 🧠 Projects
 
-### 🍽️ **1️⃣ Tab5ha Hegoumi — Restaurant Management System**  
+### 🍽️ **1️⃣ Tab5ah Hegoumi — Restaurant Management System**  
 > A complete restaurant management app connecting admin, cashier, and customers in one system.  
 > Supports live order tracking, menu control, and multi-role authentication for smooth daily operations.  
 📁 **[View Project →](https://github.com/ahmedmmesmail/KiloProject/tree/main/Phase%201/Tab5ah%20Hegoumi)**  
