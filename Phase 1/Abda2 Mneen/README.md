@@ -13,6 +13,3 @@ A desktop application to manage books, authors, and publishers with fast and acc
 - 🧑‍💼 Manage authors and publishers  
 - 🔗 Persistent SQL connection for real-time updates  
 - 🖥️ Simple and user-friendly Swing interface  
-
-<p align="center"> preview:
-  <img src="https://github.com/ahmedmmesmail/KiloProject/blob/main/Phase%201/Abda2%20Mneen/preview.jpg"></p>
