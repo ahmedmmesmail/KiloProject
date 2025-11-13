@@ -1,4 +1,4 @@
-### 🧭 Al-Boslah Da3et — Compass App
+### 8️⃣ Al-Boslah Da3et — Compass App
 ---
 **Overview:**  
 A simple and intuitive compass utility app for Android, built with Kotlin.  
