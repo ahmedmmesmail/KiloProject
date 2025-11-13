@@ -66,7 +66,7 @@ class WeatherFragment : Fragment() {
     }
 
     private fun showWeather(lat: Double, lon: Double) {
-        val apiKey = "api_key"
+        val apiKey = "2e08a5b39a52b7cc170ebd9984bb32ba"
         val retrofit = Retrofit
             .Builder()
             .baseUrl("https://api.openweathermap.org/")
