@@ -10,5 +10,11 @@ This phase showcases my ability to **design, build, and connect every layer of a
 
 ---
 
-> ### ⏳ Phase 2 is on the way!  
-> Expanding into **web development**, **advanced Android concepts**, and **UI/UX refinement** — taking this journey even further.
+### Phase 2  
+Marks the next stage of my journey, expanding into **`web development`** and **advanced Android applications**.  
+Throughout this phase, I explored the creation of **interactive, responsive, and user-friendly applications** using **HTML, CSS, JavaScript, Kotlin, Android APIs, Firebase, and modern UI/UX patterns**.  
+
+Each project emphasized **clean architecture**, **polished interface design**, and **practical functionality**, resulting in applications that are both **efficient and engaging**.  
+
+This phase showcases my ability to **integrate multiple technologies**, refine **user experience**, and build applications that are **robust, scalable, and visually appealing**.
+
