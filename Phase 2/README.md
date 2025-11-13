@@ -23,28 +23,28 @@ Each project emphasizes **clean code**, **practical problem-solving**, and **use
 ### 🧮 **5️⃣ 3ax El-Seer — Broken Calculator (Web)**  
 > A web-based interactive calculator game with dynamic functionality and responsive design.  
 > Built using HTML, CSS, and JavaScript for modern web experience.  
-📁 **[View Project →](#)**  
+📁 **[View Project →](https://github.com/ahmedmmesmail/KiloProject/tree/main/Phase%202/3ax%20El-Seer)**  
 
 ---
 
 ### 🛒 **6️⃣ Sayeq Suoq — Online Store (Web)**  
 > A fully responsive e-commerce platform (for cars) with smooth shopping experience.  
 > Implemented with HTML, CSS, and JavaScript.  
-📁 **[View Project →](#)**  
+📁 **[View Project →](https://github.com/ahmedmmesmail/KiloProject/tree/main/Phase%202/Sayeq%20Suoq)**  
 
 ---
 
 ### 📝 **7️⃣ Es2al Mgarab — Quizzes App (Android)**  
 > An educational quiz app with scoring, adaptive themes, and interactive UI.  
 > Built using Kotlin, Jetpack Compose, and Gson for data management, following MVVM patterns.  
-📁 **[View Project →](#)**  
+📁 **[View Project →](https://github.com/ahmedmmesmail/KiloProject/tree/main/Phase%202/Es2al%20Mgarab)**  
 
 ---
 
 ### 🧭 **8️⃣ Al-Boslah Da3et — Compass App (Android)**  
 > A simple compass utility app with real-time heading display and responsive interface.  
 > Developed using Kotlin, Jetpack Compose, sensor handling (Accelerometer & Magnetic Field), and MVVM architecture.  
-📁 **[View Project →](#)**  
+📁 **[View Project →](http://github.com/ahmedmmesmail/KiloProject/tree/main/Phase%202/AlBoslahDa3et)**  
 
 ---
 
