@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Sayeq Suoq - Car Marketplace" />
+  <title>Sayeq Suoq</title>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <!-- ===== HEADER ===== -->
+  <header>
+    <div class="container">
+      <h1>Sayeq Suoq</h1>
+      <nav aria-label="Main navigation">
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="showroom.html">showroom</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+      <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
+    </div>
+  </header>
+
+  <!-- ===== MAIN CONTENT ===== -->
+  <main id="main" class="container">
+    <!-- HERO SECTION -->
+    <section id="hero">
+      <h2>Welcome to <span class="highlight">Sayeq Suoq</span>!</h2>
+      <p>Find your dream car at the best prices and trusted sellers.</p>
+      <a href="showroom.html" class="btn-primary">Explore Cars 🚗</a>
+    </section>
+
+    <!-- FEATURED CARS -->
+    <section id="showroom">
+      <h2 class="section-title">Featured Cars</h2>
+      <div class="car-grid">
+        <div class="car-card">
+          <img src="images/bmw_z4.png" alt="BMW Z4">
+          <h3>BMW Z4</h3>
+          <p>2023 · Automatic</p>
+          <span class="price">$65,000</span>
+          <button class="btn-secondary">View Details</button>
+        </div>
+
+        <div class="car-card">
+          <img src="images/tesla_model_3.png" alt="Tesla Model 3">
+          <h3>Tesla Model 3</h3>
+          <p>2024 · Electric</p>
+          <span class="price">$52,000</span>
+          <button class="btn-secondary">View Details</button>
+        </div>
+
+        <div class="car-card">
+          <img src="images/mercedes_g_class.png" alt="Mercedes G-Class">
+          <h3>Mercedes G-Class</h3>
+          <p>2022 · 4x4</p>
+          <span class="price">$130,000</span>
+          <button class="btn-secondary">View Details</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about">
+      <h2 class="section-title">About Us</h2>
+      <p>
+        At <strong>Sayeq Suoq</strong>, we connect car buyers and sellers through a trusted, easy-to-use online marketplace.
+        Whether you're looking for a brand-new vehicle or a pre-owned gem, our platform ensures transparency and quality in every deal.
+      </p>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact">
+      <h2 class="section-title">Contact Us</h2>
+      <p>Have a question or need assistance? Reach out to us anytime!</p>
+      <ul class="contact-list">
+        <li>📧 Email: <a href="mailto:info@sayeqsouq.com">info@sayeqsouq.com</a></li>
+        <li>📞 Phone: +20 100 123 4567</li>
+        <li>📍 Address: Cairo, Egypt</li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- ===== FLOATING CAR (GLOBAL) ===== -->
+  <div id="moving-car">
+    <img src="images/car-drive.png" alt="Moving Car">
+  </div>
+
+  <!-- ===== FOOTER ===== -->
+  <footer>
+    <div class="container">
+      <small>&copy; <span id="year"></span> © Copyright ahmedmmesmail | CodeNytra All Rights Reserved</small>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="script.js"></script>
+</body>
+</html>

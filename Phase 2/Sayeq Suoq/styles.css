@@ -1,0 +1,244 @@
+/* ========= Theme Variables ========= */
+:root {
+  --primary-color: #ff4081; /* Pink */
+  --bg-color: #f7f7f7;
+  --text-color: #222;
+  --header-bg: #fff;
+  --footer-bg: #222;
+  --footer-text: #fff;
+  --card-bg: #fff;
+}
+
+/* Dark mode theme */
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #e0e0e0;
+  --header-bg: #1e1e1e;
+  --footer-bg: #1e1e1e;
+  --footer-text: #f1f1f1;
+  --card-bg: #1c1c1c;
+}
+
+/* ========= General ========= */
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* ========= Header ========= */
+header {
+  background-color: var(--header-bg);
+  color: var(--text-color);
+  padding: 1rem 0;
+  border-bottom: 3px solid var(--primary-color);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  margin: 0 auto;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+nav a:hover {
+  color: var(--primary-color);
+}
+
+/* Theme toggle button */
+#theme-toggle {
+  background: var(--primary-color);
+  border: none;
+  color: white;
+  font-size: 1.2rem;
+  padding: 0.4rem 0.7rem;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+#theme-toggle:hover {
+  background: #ff5e9f;
+  transform: scale(1.1);
+}
+
+/* ========= Hero Section ========= */
+main {
+  width: 90%;
+  margin: 2rem auto;
+}
+
+#hero {
+  text-align: center;
+  padding: 2rem;
+  background-color: var(--card-bg);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s;
+}
+
+#hero h2 {
+  color: var(--primary-color);
+}
+
+/* ========= Footer ========= */
+footer {
+  background-color: var(--footer-bg);
+  color: var(--footer-text);
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: 3rem;
+  transition: background-color 0.3s;
+}
+
+/* ========= Utilities ========= */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ========== Buttons ========== */
+.btn-primary {
+  display: inline-block;
+  background: var(--primary-color);
+  color: white;
+  padding: 0.7rem 1.4rem;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+.btn-primary:hover {
+  background: #ff5e9f;
+}
+
+.btn-secondary {
+  background: transparent;
+  border: 2px solid var(--primary-color);
+  color: var(--primary-color);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s;
+}
+.btn-secondary:hover {
+  background: var(--primary-color);
+  color: white;
+}
+
+/* ========== Sections ========== */
+.section-title {
+  text-align: center;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+/* ========== Car Grid ========== */
+.car-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.car-room {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.car-card {
+  background: var(--card-bg);
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: transform 0.2s, background 0.3s;
+}
+.car-card:hover {
+  transform: translateY(-5px);
+}
+
+.car-card img {
+  width: 100%;          /* العرض كله */
+  height: auto;         /* ارتفاع متناسب مع الصورة */
+  max-height: 150px;    /* أقصى ارتفاع */
+  object-fit: contain;   /* يظهر الصورة كاملة بدون قص */
+  border-radius: 10px;
+}
+
+
+.price {
+  display: block;
+  margin: 0.5rem 0;
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+/* ========== About & Contact ========== */
+#about, #contact {
+  background: var(--card-bg);
+  padding: 2rem;
+  border-radius: 10px;
+  margin-top: 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+}
+.contact-list li {
+  margin: 0.5rem 0;
+}
+.contact-list a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+.contact-list a:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+  color: var(--primary-color);
+}
+
+/* ========== Floating Car Animation ========== */
+#moving-car {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1; 
+  pointer-events: none;
+  opacity: 0.4; 
+}
+
+
+#moving-car img {
+  width: 300px;
+  max-width: 60vw;
+  opacity: 0.9;
+  transition: transform 0.2s ease-out;
+  filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.4));
+}
