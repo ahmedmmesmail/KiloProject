@@ -13,3 +13,6 @@ A modern Android app combining real-time news headlines and live weather updates
 - 🌤️ Live weather updates by location  
 - 🌘 Adaptive Dark/Light mode  
 - 🧱 Built with **MVVM** and **Retrofit**  
+
+**Color Choice 💜:**  
+A purple color palette was selected to reflect elegance, creativity, and modern digital identity. The subtle purple gradients give the app a distinctive, polished visual style that stands out while remaining comfortable for daily reading.

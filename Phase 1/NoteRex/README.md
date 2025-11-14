@@ -13,3 +13,6 @@ A minimal, secure, and reliable notes app with real-time cloud synchronization a
 - 📝 Add & delete notes with instant sync  
 - ☁️ Cloud persistence — notes never lost  
 - 🌗 Auto Dark/Light mode  
+
+**Color Choice 💚:**  
+Green was selected to reflect clarity, calmness, and productivity — making it ideal for a notes application. The green palette reinforces focus and gives the interface a clean, refreshing feel during long writing or organizing sessions.

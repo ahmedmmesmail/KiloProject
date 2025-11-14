@@ -13,3 +13,6 @@ A desktop application to manage books, authors, and publishers with fast and acc
 - 🧑‍💼 Manage authors and publishers  
 - 🔗 Persistent SQL connection for real-time updates  
 - 🖥️ Simple and user-friendly Swing interface  
+
+**Color Choice 💙:**  
+A blue color palette was chosen to reflect clarity, trust, and organization — qualities that match the purpose of a structured library system. The calm blue tones support long usage sessions and create a clean, professional look.

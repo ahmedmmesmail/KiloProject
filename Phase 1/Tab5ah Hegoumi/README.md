@@ -14,3 +14,6 @@ A complete restaurant management system designed to streamline operations betwee
 - 🧾 Full CRUD control over menu items  
 - 🔄 Real-time order tracking and billing synchronization  
 - 🌙 Switchable Dark/Light mode  
+
+**Color Choice 🧡:**  
+Orange was chosen for its energetic and appetizing feel — perfect for a restaurant system. The color enhances user engagement, boosts visual clarity, and creates a warm, welcoming atmosphere across all interfaces.

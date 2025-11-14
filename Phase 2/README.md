@@ -51,7 +51,7 @@ Each project emphasizes **clean code**, **practical problem-solving**, and **use
 ## 🧰 Tools & Technologies
 
 **Languages & Frameworks:**  
-`HTML`, `CSS`, `JavaScript`, `Kotlin`, `Gson`, `Jetpack Compose`, `MVVM`, `Sensor APIs`
+`HTML`, `CSS`, `JavaScript`, `Kotlin`, `Gson`, `Jetpack Compose`, `MVVM`, `Sensors`
 
 **Development Tools:**  
 `Android Studio`, `Visual Studio Code`, `GitHub`

@@ -1,5 +1,10 @@
 # 🧭 KiloProject
 
+🎨 **Color Identity System**  
+Each phase of **KiloProject** follows a unified visual identity where **every project is assigned a unique color theme**.  
+These color choices enhance clarity, create instant recognition, and give each application its own personality — ensuring a consistent, meaningful, and visually engaging experience across all projects.
+
+
 ### Phase 1  
 Marks the beginning of my journey in **`desktop` and `Android` development**.  
 Throughout this phase, I explored the fundamentals of building complete systems from **database to user interface** using `Java`, `Kotlin`, `JavaFX`, `Swing`, and `Firebase`.  
